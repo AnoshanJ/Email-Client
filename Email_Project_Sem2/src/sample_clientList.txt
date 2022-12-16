@@ -1,0 +1,5 @@
+Official: nimal,nimal@gmail.com,ceo
+Office_friend: kamal,kamal@gmail.com,clerk,2000/12/12
+Personal: sunil,Suni,sunil@gmail.com,2001/10/10
+Personal: John,johnny,johhny@cse.mrt.ac.lk,2000/07/02
+Personal: Tester, testing, anoshan265@gmail.com,2003/07/19

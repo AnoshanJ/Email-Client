@@ -1,0 +1,31 @@
+                   /*Pattern pattern = Pattern.compile("([a-z0-9_.-]+)@([a-z0-9_.-]+[a-z])");
+                   Matcher matcher = pattern.matcher(input_string);
+                   matcher.matches();
+                   String input_email_ad =matcher.groupCount();
+                   System.out.println(input_email_ad);
+
+                   String[] contactString;*/
+
+           /*
+            boolean found = false;
+            while (raf.getFilePointer() < raf.length()) {
+
+                matcher = pattern.matcher(raf.readLine());
+                matcher.matches();
+                String email_ad =matcher.group();
+                System.out.println(email_ad);
+
+                if (email_ad.equals(input_email_ad)) {
+                    found = true;
+                    break;
+                }
+            }
+
+            if (found == false) {
+                raf.writeBytes(input_string);
+                raf.writeBytes(System.lineSeparator());
+                raf.close();
+                System.out.println("New Contact Added.");
+            } else {
+                raf.close();
+                System.out.println("Contact already found.");*/
