@@ -1,2 +1,2 @@
 office_friend: kinsey,kin@gmail.com,student,2001/08/04
-office_friend: Anoshan,anoshan265@gmail.com,ceo,2008/08/13
+
